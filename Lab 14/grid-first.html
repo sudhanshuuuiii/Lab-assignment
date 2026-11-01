@@ -1,0 +1,44 @@
+<!--
+Name: Sudhanshu Singh
+Roll No: 2510303511
+Assignment: Lab 14 - Task 1
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First CSS Grid</title>
+
+    <style>
+        .grid-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 12px;
+        }
+
+        .box {
+            background-color: lightblue;
+            border: 2px solid navy;
+            padding: 30px;
+            text-align: center;
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>My First CSS Grid</h1>
+
+    <div class="grid-container">
+        <div class="box">1</div>
+        <div class="box">2</div>
+        <div class="box">3</div>
+        <div class="box">4</div>
+        <div class="box">5</div>
+        <div class="box">6</div>
+    </div>
+
+</body>
+</html>
