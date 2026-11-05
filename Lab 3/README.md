@@ -82,7 +82,8 @@ Task 2 output -<img width="898" height="446" alt="image" src="https://github.com
 
 
 Task 3
-Task 3 output - Lab 3 - Task 3.png
+Task 3 output -<img width="866" height="438" alt="image" src="https://github.com/user-attachments/assets/c163a59b-a01e-4bcc-9ced-819348d6a0ed" />
+
 
 8. Result
 The three pages demonstrate a titled first page, a hierarchy of three headings and a paragraph, and paragraph text with strong/em emphasis and an internal line break.
