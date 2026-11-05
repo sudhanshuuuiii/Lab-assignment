@@ -83,7 +83,7 @@ Supplied broken markup and the names/percentages Asha 92% and Rohan 85%.
 The following images show the output screenshots already present in the GitHub lab folder:
 
 Task 1
-Task 1 output - Lab 4 - Task 1.png
+Task 1 output - <img width="694" height="312" alt="image" src="https://github.com/user-attachments/assets/0cbfed3f-d7c3-4c51-ab42-a06607ccdda8" />
 
 Task 2
 Task 2 output - Lab 4 - Task 2.png
