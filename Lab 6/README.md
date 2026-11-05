@@ -96,7 +96,7 @@ Task 2
 Task 2 output - Lab 6 -<img width="873" height="335" alt="image" src="https://github.com/user-attachments/assets/39d39218-03ca-43db-befa-2829bb686e57" />
 
 Task 3
-Task 3 output - Lab 6 - Task 3.png
+Task 3 output -<img width="795" height="377" alt="image" src="https://github.com/user-attachments/assets/75ba6513-1200-43a1-96e3-c6e0ba5301f5" />
 
 8. Result
 The pages render a three-item shopping list, a numbered canteen menu with nested choices, and two FAQ terms paired with their answers.
