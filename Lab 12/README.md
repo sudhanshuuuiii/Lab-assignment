@@ -132,7 +132,8 @@ Task 2
 Task 2 <img width="787" height="355" alt="image" src="https://github.com/user-attachments/assets/edf73656-d820-4f55-90a3-4826bfccec64" />
 
 Task 3
-Task 3 output - Lab 12 - Task 3.png
+Task 3 <img width="823" height="303" alt="image" src="https://github.com/user-attachments/assets/074a22ab-19d8-4b68-8826-391b3821f2fd" />
+
 
 8. Result
 The content-box example is wider overall than the border-box example for the same declared width and padding. The card shows a colored background, border and rounded corners; the fixed-height text area scrolls through five lines.
