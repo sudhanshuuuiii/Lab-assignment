@@ -102,7 +102,8 @@ Text content and style.css in the same folder.
 The following images show the output screenshots already present in the GitHub lab folder:
 
 Task 1
-Task 1 output - Lab 10 - Task 1.png
+task 1 <img width="817" height="342" alt="image" src="https://github.com/user-attachments/assets/b1761a10-a134-4111-910c-78a2375f2f0e" />
+
 
 Task 2
 Task 2 output - Lab 10 - Task 2.png
