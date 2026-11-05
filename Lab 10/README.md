@@ -101,15 +101,11 @@ Text content and style.css in the same folder.
 7. Output
 The following images show the output screenshots already present in the GitHub lab folder:
 
-Task 1
 task 1 <img width="817" height="342" alt="image" src="https://github.com/user-attachments/assets/b1761a10-a134-4111-910c-78a2375f2f0e" />
 
-
-Task 2
 task 2 <img width="847" height="225" alt="image" src="https://github.com/user-attachments/assets/64abe7c6-1ba6-4cfa-977c-3f709a48d1cb" />
 
-Task 3
-Task 3 output - Lab 10 - Task 3.png
+task 3 <img width="816" height="304" alt="image" src="https://github.com/user-attachments/assets/0cd36e30-0f2c-40d1-8fd7-055583b41628" />
 
 8. Result
 The pages demonstrate inline, internal, and external stylesheets. The visible rules give headings navy color, highlight a paragraph yellow, style inline text red, italicize notes, underline the title, and set paragraphs to grey 18px text.
