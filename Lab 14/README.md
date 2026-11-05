@@ -177,7 +177,7 @@ Task 1
 <img width="903" height="281" alt="image" src="https://github.com/user-attachments/assets/6e8cfb36-d22e-49a3-8df9-75b673a25f29" />
 
 Task 2
-Task 2 output - Lab 14 - Task 2(a).png
+<img width="837" height="250" alt="image" src="https://github.com/user-attachments/assets/94faf47a-1654-4a42-9d82-700e48366842" />
 
 Task 2 output - Lab 14 - Task 2(b).png
 
