@@ -106,7 +106,7 @@ task 1 <img width="817" height="342" alt="image" src="https://github.com/user-at
 
 
 Task 2
-Task 2 output - Lab 10 - Task 2.png
+task 2 <img width="847" height="225" alt="image" src="https://github.com/user-attachments/assets/64abe7c6-1ba6-4cfa-977c-3f709a48d1cb" />
 
 Task 3
 Task 3 output - Lab 10 - Task 3.png
