@@ -9,8 +9,11 @@ Create a local Git repository, configure repository-specific identity, track an 
 Visual Studio Code or another text editor
 Git and a terminal (for the repository exercises)
 A web browser such as Chrome or Edge (for HTML/CSS exercises)
+
 4. Theory
+   
 Git records file changes in commits. The working tree holds current files, the staging area selects changes for the next commit, and each commit saves a snapshot with a message. Local Git configuration applies only to this repository, so this experiment sets and checks the author identity before tracking the HTML page.
+
 
 5. Program / Queries / Commands
 Task 1: Configure the repository
@@ -30,8 +33,12 @@ git add index.html
 git commit -m "Add next meeting heading"
 git log --oneline
 Complete source: index.html
+
 <!-- Name: SUDHANSHU SINGH | Roll Number: 2510303511 | Assignment: BCS352 Lab 1 -->
 
+6. Input
+
+   
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -43,13 +50,15 @@ Complete source: index.html
     <h2>Next Meeting</h2>
 </body>
 </html>
-6. Input
+
 
 Task 1
 An h1 heading of your choice.
 task 1 <img width="891" height="343" alt="image" src="https://github.com/user-attachments/assets/82f9b83f-fdbb-4bc2-88f5-527881c55920" />
+
 Task 2
 An h2 heading of your choice.
+task 2 <img width="861" height="295" alt="image" src="https://github.com/user-attachments/assets/864fc7fb-d5e2-4366-918e-fe04fe6ea7a6" />
 
 7. Output
 The following images show the output screenshots already present in the GitHub lab folder:
@@ -59,7 +68,8 @@ The following images show the output screenshots already present in the GitHub l
 8. Result
 The html-lab repository is initialized and configured with local author details. index.html is committed first with its home heading and again with the added meeting heading; git log --oneline displays both commits newest-first.
 
-9. Viva-Voce Questions
+
+10. Viva-Voce Questions
 What is a Git repository?
 What is the purpose of staging changes?
 What information does git log --oneline show?
