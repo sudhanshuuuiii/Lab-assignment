@@ -124,6 +124,8 @@ The following images show the output screenshots already present in the GitHub l
 
 
 task 2 <img width="650" height="293" alt="image" src="https://github.com/user-attachments/assets/a730b016-0bfe-4d82-a902-485aff7acad6" />
+
+
 task 3 <img width="879" height="528" alt="image" src="https://github.com/user-attachments/assets/a0756510-807f-47ab-baaa-800533c15e06" />
 
 8. Result
