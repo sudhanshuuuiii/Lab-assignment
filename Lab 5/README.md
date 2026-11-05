@@ -83,7 +83,8 @@ Task 2 output -<img width="853" height="357" alt="image" src="https://github.com
 
 
 Task 3
-Task 3 output - Lab 5 - Task 3.png
+Task 3 output -<img width="731" height="404" alt="image" src="https://github.com/user-attachments/assets/628d9884-3d64-49f4-99e7-3bb8eb6f1b96" />
+
 
 8. Result
 The home and portfolio pages link to one another. The portfolio image page displays the supplied image at 200 by 200 pixels and includes alternative text describing it.
