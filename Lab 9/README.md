@@ -158,7 +158,7 @@ Task 2 output - <img width="887" height="380" alt="image" src="https://github.co
 
 
 Task 3
-Task 3 output - Lab 9 - Task 3.png
+Task 3 output -<img width="772" height="301" alt="image" src="https://github.com/user-attachments/assets/6e3c2b4b-3abc-49e4-b929-5193803eb063" />
 
 8. Result
 The pages render the class marks table, a two-student average row (Maths 71; Science 77.5), and an accessible table with row and column scope attributes.
