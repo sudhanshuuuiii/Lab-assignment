@@ -86,7 +86,7 @@ Task 1
 Task 1 output - <img width="694" height="312" alt="image" src="https://github.com/user-attachments/assets/0cbfed3f-d7c3-4c51-ab42-a06607ccdda8" />
 
 Task 2
-Task 2 output - Lab 4 - Task 2.png
+Task 2 output - <img width="672" height="389" alt="image" src="https://github.com/user-attachments/assets/332052ba-f56f-45d4-85aa-23237cae6865" />
 
 Task 3
 Task 3 output - Lab 4 - Task 3.png
