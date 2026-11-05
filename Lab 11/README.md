@@ -120,11 +120,10 @@ Task 3
 7. Output
 The following images show the output screenshots already present in the GitHub lab folder:
 
-Task 1
-<img width="520" height="247" alt="image" src="https://github.com/user-attachments/assets/12eb7bf8-5f24-4285-b76d-233f158b556c" />
+ task 1 <img width="520" height="247" alt="image" src="https://github.com/user-attachments/assets/12eb7bf8-5f24-4285-b76d-233f158b556c" />
 
-Task 3
-Task 3 output - Lab 11 - Task 3.png
+
+task 2 <img width="650" height="293" alt="image" src="https://github.com/user-attachments/assets/a730b016-0bfe-4d82-a902-485aff7acad6" />
 
 8. Result
 The examples show a 200px box, a half-width box, and 1.5rem text. CSS custom properties supply reusable page colors, padding, heading color/size, and spacing tokens.
