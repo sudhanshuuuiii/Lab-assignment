@@ -61,6 +61,8 @@ The repository has one screenshot showing the final page after all three cumulat
 
 Final page after Tasks 1–3
 Final About Me page
+<img width="845" height="414" alt="image" src="https://github.com/user-attachments/assets/3daaceaa-f671-4793-8605-876ccc52fcf6" />
+
 
 8. Result
 The final About Me page shows the student name, About and Contact navigation, a short about paragraph, and a clickable email address. The Contact link targets the footer.
