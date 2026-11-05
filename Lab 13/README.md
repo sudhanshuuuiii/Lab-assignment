@@ -161,7 +161,7 @@ Notebook 60, Pen 15, Bag 350, Book 120; narrow browser viewport.
 The following images show the output screenshots already present in the GitHub lab folder:
 
 Task 1
-Task 1 output - Lab 13 - Task 1.png
+<img width="785" height="319" alt="image" src="https://github.com/user-attachments/assets/9a415810-defc-47f3-9c57-2ed81e9cc6cf" />
 
 Task 2
 Task 2 output - Lab 13 - Task 2.png
