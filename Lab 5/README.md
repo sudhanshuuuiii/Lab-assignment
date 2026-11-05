@@ -75,7 +75,8 @@ Instructor-provided image filename and a concise image description for alt text.
 The following images show the output screenshots already present in the GitHub lab folder:
 
 Task 1
-Task 1 output - Lab 5 - Task 1.png
+Task 1 output <img width="800" height="417" alt="image" src="https://github.com/user-attachments/assets/586192db-adee-4e66-b3c1-3eef528af830" />
+
 
 Task 2
 Task 2 output - Lab 5 - Task 2.png
