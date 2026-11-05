@@ -89,7 +89,7 @@ Task 2
 Task 2 output - <img width="672" height="389" alt="image" src="https://github.com/user-attachments/assets/332052ba-f56f-45d4-85aa-23237cae6865" />
 
 Task 3
-Task 3 output - Lab 4 - Task 3.png
+Task 3 output -<img width="847" height="426" alt="image" src="https://github.com/user-attachments/assets/4f6251bb-3fd6-449d-94dc-19ee2becdc3e" />
 
 8. Result
 The layout page groups header, main, and footer content; the attributes page stores a data-topic value on its paragraph; and the corrected attendance document renders its heading with Asha at 92% and Rohan at 85%.
