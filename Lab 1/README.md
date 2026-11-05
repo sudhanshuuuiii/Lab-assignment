@@ -47,7 +47,7 @@ Complete source: index.html
 
 Task 1
 An h1 heading of your choice.
-
+task 1 <img width="891" height="343" alt="image" src="https://github.com/user-attachments/assets/82f9b83f-fdbb-4bc2-88f5-527881c55920" />
 Task 2
 An h2 heading of your choice.
 
