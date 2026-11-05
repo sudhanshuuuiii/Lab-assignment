@@ -183,7 +183,8 @@ Task 2 output -<img width="889" height="381" alt="image" src="https://github.com
 
 
 Task 3
-Task 3 output - Lab 14 - Task 3.png
+Task 3 output - <img width="899" height="378" alt="image" src="https://github.com/user-attachments/assets/5c056331-ad78-41ad-8577-81a1b22f23b8" />
+
 
 8. Result
 The grid page displays six boxes in three columns, the gallery fits columns according to available width, and the named-area dashboard places a header and footer across the page with sidebar and main content beneath.
