@@ -146,7 +146,7 @@ Task 2
 Task 2 output -<img width="888" height="527" alt="image" src="https://github.com/user-attachments/assets/7e3c8d3e-62c0-4050-994f-ca7caf29e685" />
 
 Task 3
-Task 3 output - Lab 15 - Task 3(a).png
+Task 3 output <img width="885" height="508" alt="image" src="https://github.com/user-attachments/assets/1cc95070-8a90-4e6e-9d07-e64fc53a112e" />
 
 Task 3 output - Lab 15 - Task 3(b).png
 
