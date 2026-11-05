@@ -148,7 +148,7 @@ Task 2 output -<img width="888" height="527" alt="image" src="https://github.com
 Task 3
 Task 3 output <img width="885" height="508" alt="image" src="https://github.com/user-attachments/assets/1cc95070-8a90-4e6e-9d07-e64fc53a112e" />
 
-Task 3 output - Lab 15 - Task 3(b).png
+Task 3 output -<img width="759" height="449" alt="image" src="https://github.com/user-attachments/assets/b10f8ace-f8ad-46be-89a2-e1532ebc3e67" />
 
 8. Result
 The card layout stacks on phone-sized viewports and changes to side-by-side cards at 600px. The image scales down without distortion, and the heading grows at the 600px breakpoint.
