@@ -73,7 +73,9 @@ Two paragraphs of your choice and one word each to emphasize.
 The following images show the output screenshots already present in the GitHub lab folder:
 
 Task 1
-Task 1 output - Lab 3 - Task 1.png
+Task 1 output -<img width="859" height="415" alt="image" src="https://github.com/user-attachments/assets/1986a971-929d-4790-b449-d943850f361b" />
+
+
 
 Task 2
 Task 2 output - Lab 3 - Task 2.png
