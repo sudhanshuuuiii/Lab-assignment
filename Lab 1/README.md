@@ -3,16 +3,18 @@
 Starting a Git Repository
 
 2. Aim
+   
 Create a local Git repository, configure repository-specific identity, track an HTML page, and record changes in commits.
 
-3. Software / Tools Required
+3. Software / Tools Required 
 Visual Studio Code or another text editor
 Git and a terminal (for the repository exercises)
 A web browser such as Chrome or Edge (for HTML/CSS exercises)
-
-4. Theory
    
-Git records file changes in commits. The working tree holds current files, the staging area selects changes for the next commit, and each commit saves a snapshot with a message. Local Git configuration applies only to this repository, so this experiment sets and checks the author identity before tracking the HTML page.
+4. Theory
+
+   
+ Git records file changes in commits. The working tree holds current files, the staging area selects changes for the next commit, and each commit saves a snapshot with a message. Local Git configuration applies only to this repository, so this experiment sets and checks the author identity before tracking the HTML page.
 
 
 5. Program / Queries / Commands
@@ -69,7 +71,7 @@ The following images show the output screenshots already present in the GitHub l
 The html-lab repository is initialized and configured with local author details. index.html is committed first with its home heading and again with the added meeting heading; git log --oneline displays both commits newest-first.
 
 
-10. Viva-Voce Questions
+9. Viva-Voce Questions
 What is a Git repository?
 What is the purpose of staging changes?
 What information does git log --oneline show?
