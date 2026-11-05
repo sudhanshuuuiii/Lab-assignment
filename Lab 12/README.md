@@ -125,7 +125,8 @@ Five paragraphs labelled Line 1 through Line 5.
 The following images show the output screenshots already present in the GitHub lab folder:
 
 Task 1
-Task 1 output - Lab 12 - Task 1.png
+ task 1 <img width="593" height="376" alt="image" src="https://github.com/user-attachments/assets/404c6d20-e1c0-4e8e-8e87-151c65210810" />
+
 
 Task 2
 Task 2 output - Lab 12 - Task 2.png
