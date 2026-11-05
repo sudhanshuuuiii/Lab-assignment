@@ -171,7 +171,8 @@ Task 3
 <img width="754" height="321" alt="image" src="https://github.com/user-attachments/assets/c090c581-0a5e-4e37-8ae9-275386783ea8" />
 
 
-Task 3 output - Lab 13 - Task 3(b).png
+Task 3 (b) 
+<img width="886" height="435" alt="image" src="https://github.com/user-attachments/assets/573e1e3d-3739-4535-892c-d5107bfbeb6f" />
 
 8. Result
 The navigation links form a horizontal dark flex bar, the three pricing cards are centered in a row, and the stationery cards wrap to additional rows at a narrower viewport.
