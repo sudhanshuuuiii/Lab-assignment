@@ -132,7 +132,7 @@ Name and email values; leave a required field empty to observe validation.
 The following images show the output screenshots already present in the GitHub lab folder:
 
 Task 1
-Task 1 output - Lab 8 - Task 1.png
+Task 1 output - <img width="891" height="303" alt="image" src="https://github.com/user-attachments/assets/241f82cc-b67e-454a-8b64-eff1d8a98f89" />
 
 Task 2
 Task 2 output - Lab 8 - Task 2.png
