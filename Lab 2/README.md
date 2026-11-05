@@ -56,7 +56,8 @@ Task 1 output -<img width="847" height="527" alt="image" src="https://github.com
 
 
 Task 2
-Task 2 output - Lab 2 - Task 2.png
+Task 2 output -<img width="876" height="532" alt="image" src="https://github.com/user-attachments/assets/1b3acd74-4f5e-4e21-9c11-4c3016200efc" />
+
 
 
 
