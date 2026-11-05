@@ -129,7 +129,7 @@ Task 1
 
 
 Task 2
-Task 2 output - Lab 12 - Task 2.png
+Task 2 <img width="787" height="355" alt="image" src="https://github.com/user-attachments/assets/edf73656-d820-4f55-90a3-4826bfccec64" />
 
 Task 3
 Task 3 output - Lab 12 - Task 3.png
