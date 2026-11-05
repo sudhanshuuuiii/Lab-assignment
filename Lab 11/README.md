@@ -121,10 +121,7 @@ Task 3
 The following images show the output screenshots already present in the GitHub lab folder:
 
 Task 1
-Task 1 output - Lab 11 - Task 1.png
-
-Task 2
-Task 2 output - Lab 11 - Task 2.png
+<img width="520" height="247" alt="image" src="https://github.com/user-attachments/assets/12eb7bf8-5f24-4285-b76d-233f158b556c" />
 
 Task 3
 Task 3 output - Lab 11 - Task 3.png
