@@ -138,7 +138,7 @@ Text content and viewport widths below/above 600px.
 The following images show the output screenshots already present in the GitHub lab folder:
 
 Task 1
-Task 1 output - Lab 15 - Task 1(a).png
+Task 1 output - <img width="891" height="475" alt="image" src="https://github.com/user-attachments/assets/301f49a5-33c7-4da0-b3e6-e2300904bc4d" />
 
 Task 1 output - Lab 15 - Task 1(b).png
 
