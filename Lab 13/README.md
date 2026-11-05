@@ -168,7 +168,8 @@ Task 2
 
 
 Task 3
-Task 3 output - Lab 13 - Task 3(a).png
+<img width="754" height="321" alt="image" src="https://github.com/user-attachments/assets/c090c581-0a5e-4e37-8ae9-275386783ea8" />
+
 
 Task 3 output - Lab 13 - Task 3(b).png
 
