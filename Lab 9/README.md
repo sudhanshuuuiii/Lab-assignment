@@ -151,7 +151,7 @@ Asha and Rohan data with column and row scope attributes.
 The following images show the output screenshots already present in the GitHub lab folder:
 
 Task 1
-Task 1 output - Lab 9 - Task 1.png
+Task 1 output - <img width="871" height="395" alt="image" src="https://github.com/user-attachments/assets/6b145c8f-c8f7-45ef-a8a5-8bd2200c2ac4" />
 
 Task 2
 Task 2 output - Lab 9 - Task 2.png
