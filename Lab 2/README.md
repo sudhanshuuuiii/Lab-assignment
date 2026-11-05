@@ -1,159 +1,71 @@
-Experiment No. 15
+Experiment No. 2
 1. Experiment Title
-Responsive Pages with Media Queries
+Pushing and Cloning a Repository
 
 2. Aim
-Use mobile-first media queries, responsive images, and rem-based typography.
+Create a local bare remote, push commits to it, and clone a working copy.
 
 3. Software / Tools Required
 Visual Studio Code or another text editor
 Git and a terminal (for the repository exercises)
 A web browser such as Chrome or Edge (for HTML/CSS exercises)
 4. Theory
-Responsive design adapts a page to its viewport. The viewport meta tag sets the layout viewport to the device width. Mobile-first CSS provides a base layout and media queries apply changes at breakpoints. max-width:100% lets an image shrink within its box, height:auto preserves its proportions, and rem units scale text relative to the root font size.
+A bare repository stores history without a checked-out working tree and can act as a remote. A remote name such as origin is a shortcut to that location. Push transfers commits to the remote branch; clone creates a separate working copy and retrieves its history, allowing the cloned log to be compared with the original.
 
 5. Program / Queries / Commands
-Task 1 — mobile-first.html
-<!-- Name: SUDHANSHU SINGH | Roll No: 2510303511 | Assignment: BCS352 Lab 15 -->
+Task 1: Create the bare remote and add origin
+git init --bare ../html-remote
+git remote add origin ../html-remote
+git remote -v
+Task 2: Push the current branch
+git push origin main
+# Use master instead if that is your branch name
+git push origin master
+Task 3: Clone and inspect history
+cd ..
+git clone html-remote html-copy
+cd html-copy
+git log --oneline
+Complete source file tracked in the repository: index.html
+<!-- Name: SUDHANSHU SINGH| Roll Number: 2510303511 | Assignment: BCS352 Lab 2 -->
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Mobile First Design</title>
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <style>
-        .cards {
-            display: block;
-        }
-
-        .card {
-            background-color: lightblue;
-            border: 2px solid navy;
-            padding: 20px;
-            margin: 10px;
-        }
-
-        @media (min-width: 600px) {
-            .cards {
-                display: flex;
-            }
-        }
-    </style>
+    <meta charset="UTF-8">
+    <title>HTML Lab</title>
 </head>
 <body>
-
-    <h1>Mobile First Design</h1>
-
-    <div class="cards">
-
-        <div class="card">
-            <h2>Card 1</h2>
-            <p>This is the first card.</p>
-        </div>
-
-        <div class="card">
-            <h2>Card 2</h2>
-            <p>This is the second card.</p>
-        </div>
-
-    </div>
-
-</body>
-</html>
-Task 2 — responsive-image.html
-<!-- Name: SUDHANSHU SINGH | Roll No: 2510303511 | Assignment: BCS352 Lab 15 -->
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Responsive Image</title>
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <style>
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-
-    <h1>Responsive Image Example</h1>
-
-    <img src="images/portfolio.jpeg" alt="Portfolio image">
-
-</body>
-</html>
-Task 3 — responsive-text.html
-<!-- Name: SUDHANSHU | Roll No: 2510303511 | Assignment: BCS352 Lab 15 -->
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Responsive Text</title>
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <style>
-        body {
-            font-size: 1rem;
-        }
-
-        h1 {
-            font-size: 1.5rem;
-        }
-
-        @media (min-width: 600px) {
-            h1 {
-                font-size: 2.5rem;
-            }
-        }
-    </style>
-</head>
-<body>
-
-    <h1>Responsive Text Example</h1>
-
-    <p>
-        This webpage demonstrates responsive text using CSS media queries.
-        The heading size changes according to the screen width.
-    </p>
-
+    <h1>Welcome to My Lab</h1>
+    <h2>Next Meeting</h2>
 </body>
 </html>
 6. Input
 Task 1
-Two card contents and viewport widths below/above 600px.
+Existing html-lab repository and a local path ../html-remote.
 
 Task 2
-Instructor-provided image file and narrow/wide viewport.
+Current branch name (main or master).
 
 Task 3
-Text content and viewport widths below/above 600px.
+Local path html-remote and destination folder html-copy.
 
 7. Output
 The following images show the output screenshots already present in the GitHub lab folder:
 
 Task 1
-Task 1 output - Lab 15 - Task 1(a).png
-
-Task 1 output - Lab 15 - Task 1(b).png
+Task 1 output - Lab 2 - Task 1.png
 
 Task 2
-Task 2 output - Lab 15 - Task 2.png
+Task 2 output - Lab 2 - Task 2.png
 
 Task 3
-Task 3 output - Lab 15 - Task 3(a).png
-
-Task 3 output - Lab 15 - Task 3(b).png
+Task 3 output - Lab 2 - Task 3.png
 
 8. Result
-The card layout stacks on phone-sized viewports and changes to side-by-side cards at 600px. The image scales down without distortion, and the heading grows at the 600px breakpoint.
+The local bare repository is connected as origin, the current branch is pushed, and html-copy is cloned from that remote. The cloned log shows the commits created in the original repository.
 
 9. Viva-Voce Questions
-What is mobile-first design?
-What does a media query do?
-Why pair max-width: 100% with height: auto for an image?
+What is a bare repository?
+What does the origin remote represent?
+How does git clone differ from git init?
