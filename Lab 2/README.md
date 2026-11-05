@@ -44,23 +44,21 @@ Complete source file tracked in the repository: index.html
 Task 1
 Existing html-lab repository and a local path ../html-remote.
 
-Task 2
-Current branch name (main or master).
 
-Task 3
+Task 2
 Local path html-remote and destination folder html-copy.
 
 7. Output
 The following images show the output screenshots already present in the GitHub lab folder:
 
 Task 1
-Task 1 output - Lab 2 - Task 1.png
+Task 1 output -<img width="847" height="527" alt="image" src="https://github.com/user-attachments/assets/c44faa56-0f28-4bb7-93d2-4a5d69a8f234" />
+
 
 Task 2
 Task 2 output - Lab 2 - Task 2.png
 
-Task 3
-Task 3 output - Lab 2 - Task 3.png
+
 
 8. Result
 The local bare repository is connected as origin, the current branch is pushed, and html-copy is cloned from that remote. The cloned log shows the commits created in the original repository.
