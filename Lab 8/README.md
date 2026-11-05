@@ -137,7 +137,7 @@ Task 1 output - <img width="891" height="303" alt="image" src="https://github.co
 Task 2
 Task 2 output -<img width="844" height="408" alt="image" src="https://github.com/user-attachments/assets/001eaff6-2a71-4337-b68f-31c04e1e1f5c" />
 
-Task 3 output - Lab 8 - Task 3.png
+Task 3 output - <img width="859" height="431" alt="image" src="https://github.com/user-attachments/assets/b4d95c6c-91f3-46f7-8515-333f173bdff0" />
 
 8. Result
 The pages demonstrate labelled name/email/password fields, radio and dropdown choices, and browser validation that prevents submission while a required field is empty.
