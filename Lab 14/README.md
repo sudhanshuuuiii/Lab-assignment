@@ -174,7 +174,7 @@ Two columns, 200px and 1fr; named layout regions.
 The following images show the output screenshots already present in the GitHub lab folder:
 
 Task 1
-Task 1 output - Lab 14 - Task 1.png
+<img width="903" height="281" alt="image" src="https://github.com/user-attachments/assets/6e8cfb36-d22e-49a3-8df9-75b673a25f29" />
 
 Task 2
 Task 2 output - Lab 14 - Task 2(a).png
